@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maverick6626
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on an Oject Detection and Computer vision project
+- 💞️ I’m looking to collaborate on an Object Detection and Computer vision project
 - 📫 How to reach me ...
 
 <!---
